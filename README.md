@@ -14,6 +14,7 @@ Das E-Mobilitätsgesetz erlaubt es Kommunen, Fahrzeuge mit E-Kennzeichen besonde
 - D/NRW **Köln**: Köln hat keine Sonderregelung ausser freiem Parken während eines Ladevorgangs. [Quelle](https://www.stadt-koeln.de/artikel/68158/index.html)
 - D/NRW **Krefeld**: In Krefeld gibt es keine Sonderregelung.
 - D/NRW **Mönchengladbach**: In Mönchengladbach parken E-Autos mit E-Kennzeichen für zwei Stunden mit Auslegung der Parkscheibe kostenfrei.  [Quelle](https://www.moenchengladbach.de/de/rathaus/buergerinfo-a-z/planen-bauen-mobilitaet-umwelt-dezernat-vi/stabsstelle-mobilitaetsmanagement-vim/e-mobilitaet/)
+- D/NRW **Oberhausen**: Freies Parken mit Parkscheibe bis zu 4 Stunden. [Quelle](https://www.oberhausen.de/parkraumkonzept)
 - D/NRW **Neuss** (Stadt): In Neuss ist Parken auf Flächen mit Parkscheinpflicht für Fahrzeuge mit E-Kennzeichen frei. Es muss die Parkscheibe ausgelegt werden und es gilt die Höchstparkdauer. [Siehe: Freies Parken für Elektrofahrzeuge an den Parkscheinautomaten](https://www.neuss.de/archiv/2018/04/weitere-ladesaeulen-in-neuss)
 - D/NRW **Viersen**:  In Viersen gibt es keine Sonderregelung ausser freiem Parken während eines Ladevorgangs.
 
